@@ -1,2 +1,2 @@
 # Portfolio-test
-Testing out WP to static
+Testing out WP to static.
